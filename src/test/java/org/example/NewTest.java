@@ -9,3 +9,7 @@ public class NewTest {
     void NewTest (){
     Assertions.assertTrue(3>1);}
 }
+    @Test
+    void SecondTest (){
+        Assertions.assertTrue(8>1);}
+}
